@@ -19,3 +19,5 @@ function divide(a,b) {
 
 add;
 subtract;
+multiply;
+divide;
