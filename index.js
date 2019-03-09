@@ -15,9 +15,3 @@ function multiply(a, b) {
 function divide(a,b) {
   return a / b
 }
-
-
-add;
-subtract;
-multiply;
-divide;
