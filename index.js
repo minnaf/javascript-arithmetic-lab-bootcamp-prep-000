@@ -24,5 +24,4 @@ function dec(n) {
   return n--
 }
 
-inc(164);
-dec(670);
+
